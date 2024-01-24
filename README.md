@@ -41,6 +41,7 @@ The Puck class represents a puck object, extending the Ball class. It includes a
 The SecondPaddle class represents a second paddle instance. It extends the Paddle class and includes attributes and methods to track collisions and removal conditions.
 
 **CameraMove**
+
 The CameraMove class represents the camera movement behavior. It extends the CollisionStrategy class and handles camera movement based on ball collisions.
 
 **CollisionStrategy**
@@ -70,7 +71,6 @@ The StrategyFactory class is responsible for creating different collision strate
 **StrategyRand**
 
 An enum representing all the types of bricks' strategies.
-
 
 **Bricker Game**
 
