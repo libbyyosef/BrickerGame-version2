@@ -93,3 +93,6 @@ The user can restart the game by pressing the 'W' key after winning or when prom
 The game has a simple win/loss mechanism based on the number of lives and remaining bricks.
 
 Feel free to explore and modify the code to enhance or customize the game further!
+
+
+Powered by DanoGameLab, a library crafted by Dan Nirel.
