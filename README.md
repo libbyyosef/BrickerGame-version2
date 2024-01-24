@@ -1,6 +1,6 @@
 # BrickerGame-version2
 
-This repository contains the source code for a simple brick-breaker game implemented in Java. The game includes various game objects, collisions, and behaviors to create an interactive gaming experience.
+Within this repository lies the codebase of a Java-powered brick-breaker game, unveiling a world of diverse game elements, intricate collisions, and dynamic behaviors to craft an immersive gaming odyssey. BrickerGame-version2 elevates the gaming realm with novel features: introducing pucks and second paddles, advanced collision strategies, a strategy factory for dynamic behavior creation, and refined controls. This iteration promises a more enriched and engaging gaming experience, setting itself apart from the earlier BrickerGame-version1.
 
 **Game Objects**
 
