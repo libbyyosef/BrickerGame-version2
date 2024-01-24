@@ -84,6 +84,7 @@ Move paddle right: Right Arrow Key
 Restart the game: 'W' key (only after winning or when prompted)
 
 **Dependencies**
+
 The game uses the danogl library for game development, including features like collision detection, rendering, and user input.
 
 Notes
