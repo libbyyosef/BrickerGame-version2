@@ -2,6 +2,10 @@
 
 Within this repository lies the codebase of a Java-powered brick-breaker game, unveiling a world of diverse game elements, intricate collisions, and dynamic behaviors to craft an immersive gaming odyssey. BrickerGame-version2 elevates the gaming realm with novel features: introducing pucks and second paddles, advanced collision strategies, a strategy factory for dynamic behavior creation, and refined controls. This iteration promises a more enriched and engaging gaming experience, setting itself apart from the earlier BrickerGame-version1.
 
+
+https://github.com/libbyyosef/BrickerGame-version2/assets/36642026/8ee2594f-6f9d-4a97-991e-849925a0716f
+
+
 **Game Objects**
 
 **Ball**
